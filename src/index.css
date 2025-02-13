@@ -1,0 +1,35 @@
+.app-container {
+    border: 3px solid black;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form-container {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.form-input {
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.form-button {
+    padding: 5px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.todo-item {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.todo-checkbox {
+    margin-right: 10px;
+}
